@@ -1,0 +1,18 @@
+a.row2 {
+    background-color: lightgrey;
+    color: white;
+    text-decoration: none;
+    margin: 2;
+    padding: 5;
+    font-size: 20;
+    text-align: center;
+}
+
+nav#row2 {
+    margin-top: 6;
+    margin-bottom: 20;
+}
+
+body {
+    font-family: Arial,sans-serif;
+}
