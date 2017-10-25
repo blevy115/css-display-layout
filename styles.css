@@ -16,3 +16,7 @@ nav#row2 {
 body {
     font-family: Arial,sans-serif;
 }
+.image_text {
+    margin-top: 5;
+    margin-bottom: 5;
+}
